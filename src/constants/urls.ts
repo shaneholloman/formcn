@@ -5,7 +5,7 @@ export const urls = {
 	sponsors: {
 		forminit: 'https://forminit.com?utm_source=formcn&utm_campaign=github',
 		shadcnStudio:
-			'https://shadcnstudio.com/?utm_source=formcn&utm_medium=banner&utm_campaign=github',
+			'https://shadcnstudio.com/blocks?utm_source=formcn&utm_medium=banner&utm_campaign=github',
 	},
 }
 
